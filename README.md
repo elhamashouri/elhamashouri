@@ -1,16 +1,42 @@
-## Hi there 👋
+# 🤖 Hi I'm Elham Ashouri Kafshgar
 
-<!--
-**elhamashouri/elhamashouri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Artificial Intelligence Engineering student [@Unipd](https://www.unipd.it/)
 
-Here are some ideas to get you started:
+## 👨‍💻 My Social Media
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</br>
+
+<table align="center">
+<tr>
+
+<td>
+
+[![linkedin](https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg)](https://www.linkedin.com/in/elham-ashouri-kafshgar/)
+
+</td>
+
+</tr>
+</table>
+
+## 💩 My Coding Stats
+
+</br>
+
+<table align="center">
+<tr>
+<td>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elhamashouri&show_icons=true&theme=nightowl)
+
+</td>
+
+<td>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=elhamashouri&theme=nightowl)](https://git.io/streak-stats)
+
+</td>
+
+</tr>
+</table>
+
+</div>
