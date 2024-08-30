@@ -1,6 +1,6 @@
 # 🤖 Hi I'm Elham Ashouri Kafshgar
 
-Artificial Intelligence Engineering student [@Unipd](https://www.unipd.it/)
+Computer Engineering | Specializing Artificial Intelligence and Machine Learning student [@Unipd](https://www.unipd.it/)
 
 ## 👨‍💻 My Social Media
 
